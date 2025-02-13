@@ -1,0 +1,10 @@
+streamlit
+seaborn
+matplotlib
+wordcloud
+solution
+STOPWORDS
+emoji
+TextBlob
+subprocess.run
+textblob
