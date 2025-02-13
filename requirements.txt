@@ -8,3 +8,4 @@ emoji
 TextBlob
 subprocess.run
 textblob
+urlextract
